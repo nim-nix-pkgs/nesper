@@ -11,6 +11,7 @@
   inputs.src-nesper-v0_6_0.ref   = "refs/tags/v0.6.0";
   inputs.src-nesper-v0_6_0.owner = "elcritch";
   inputs.src-nesper-v0_6_0.repo  = "nesper";
+  inputs.src-nesper-v0_6_0.dir   = "";
   inputs.src-nesper-v0_6_0.type  = "github";
   
   inputs."msgpack4nim".owner = "nim-nix-pkgs";
