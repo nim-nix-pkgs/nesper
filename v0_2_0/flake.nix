@@ -11,7 +11,6 @@
   inputs.src-nesper-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-nesper-v0_2_0.owner = "elcritch";
   inputs.src-nesper-v0_2_0.repo  = "nesper";
-  inputs.src-nesper-v0_2_0.dir   = "";
   inputs.src-nesper-v0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

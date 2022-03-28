@@ -11,7 +11,6 @@
   inputs.src-nesper-master.ref   = "refs/heads/master";
   inputs.src-nesper-master.owner = "elcritch";
   inputs.src-nesper-master.repo  = "nesper";
-  inputs.src-nesper-master.dir   = "";
   inputs.src-nesper-master.type  = "github";
   
   inputs."msgpack4nim".owner = "nim-nix-pkgs";
