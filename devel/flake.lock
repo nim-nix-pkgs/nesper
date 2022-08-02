@@ -65,7 +65,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "msgpack4nim": "msgpack4nim",
         "nixpkgs": "nixpkgs",
-        "src-nesper-master": "src-nesper-master",
+        "src-nesper-devel": "src-nesper-devel",
         "stew": "stew"
       }
     },
@@ -86,19 +86,19 @@
         "type": "github"
       }
     },
-    "src-nesper-master": {
+    "src-nesper-devel": {
       "flake": false,
       "locked": {
-        "lastModified": 1619151002,
-        "narHash": "sha256-+AWdqnWMV4y/+NNnxh9plefd6knHwqwCDWb7uyNMZmE=",
+        "lastModified": 1658526831,
+        "narHash": "sha256-4LQK8nRtNU6E1eAXeagtRKBPeKoAbNRr/YF1KbKrBoA=",
         "owner": "elcritch",
         "repo": "nesper",
-        "rev": "f54fff8b240e94684ae8ce0ffe2485cfd425497c",
+        "rev": "77258215f574327eed55ff46e3a02c5c829cb8fa",
         "type": "github"
       },
       "original": {
         "owner": "elcritch",
-        "ref": "refs/heads/master",
+        "ref": "refs/heads/devel",
         "repo": "nesper",
         "type": "github"
       }
